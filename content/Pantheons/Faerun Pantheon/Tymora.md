@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Tymora
 > ![[tymora_symbol.png]]

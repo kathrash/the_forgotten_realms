@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Hoar
 > ![[hoar_symbol.png]]

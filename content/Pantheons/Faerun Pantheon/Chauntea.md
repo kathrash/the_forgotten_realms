@@ -1,3 +1,7 @@
+---
+title: Chauntea
+draft: "false"
+---
 > [!infobox]
 > # Asmodeus
 > ![[chauntea_symbol.png]]

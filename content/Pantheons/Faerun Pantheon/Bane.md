@@ -1,3 +1,7 @@
+---
+title: Bane
+draft: "false"
+---
 > [!infobox]
 > # Bane
 > ![[bane_symbol.png]]

@@ -1,3 +1,8 @@
+---
+title: Selvetarm
+draft: "false"
+---
+
 > [!infobox]
 > # Selvetarm
 > ![[selvetarm.jpg]]

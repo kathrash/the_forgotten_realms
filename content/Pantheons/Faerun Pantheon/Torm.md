@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Torm
 > ![[torm_symbol.png]]

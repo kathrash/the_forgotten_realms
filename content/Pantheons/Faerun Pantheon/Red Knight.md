@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Red Knight
 > ![[redknight_symbol.png]]

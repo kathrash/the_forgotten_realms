@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Mielikki
 > ![[mielikki_symbol.png]]

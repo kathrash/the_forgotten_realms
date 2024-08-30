@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Tyr
 > ![[tyr_symbol.png]]

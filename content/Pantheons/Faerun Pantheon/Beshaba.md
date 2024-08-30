@@ -1,3 +1,7 @@
+---
+title: Beshaba
+draft: "false"
+---
 > [!infobox]
 > # Beshaba
 > ![[beshaba_symbol.png]]

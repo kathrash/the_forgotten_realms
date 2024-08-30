@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Silvanus
 > ![[silvanus_symbol.png]]

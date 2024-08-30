@@ -1,3 +1,8 @@
+---
+title: Ghaunadaur
+draft: "false"
+---
+
 > [!infobox]
 > # Ghaunadaur
 > ![[ghaunadaur.jpg]]

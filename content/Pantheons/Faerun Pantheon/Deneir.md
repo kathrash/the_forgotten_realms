@@ -1,3 +1,7 @@
+---
+title: Deneir
+draft: "false"
+---
 > [!infobox]
 > # Deneir
 > ![[deneir_symbol.png]]

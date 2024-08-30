@@ -1,3 +1,7 @@
+---
+title: Bhaal
+draft: "false"
+---
 > [!infobox]
 > # Bhaal
 > ![[bhaal_symbol.png]]

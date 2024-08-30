@@ -1,3 +1,8 @@
+---
+title: Eilistraee
+draft: "false"
+---
+
 > [!infobox]
 > # Eilistraee
 > ![[eilistraee.jpg]]

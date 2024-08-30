@@ -1,3 +1,7 @@
+---
+title: Amaunator
+draft: "false"
+---
 > [!infobox]
 > # Amaunator
 > ![[lathander_symbol.png]]

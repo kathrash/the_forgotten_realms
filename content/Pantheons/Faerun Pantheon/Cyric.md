@@ -1,3 +1,7 @@
+---
+title: Cyric
+draft: "false"
+---
 > [!infobox]
 > # Cyric
 > ![[cyric_symbol.png]]

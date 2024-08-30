@@ -1,3 +1,8 @@
+---
+title: Lolth
+draft: "false"
+---
+
 > [!infobox]
 > # Lolth
 > ![[lolth.jpg]]

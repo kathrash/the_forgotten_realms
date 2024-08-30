@@ -1,4 +1,9 @@
-> [!infobox]
+---
+title: Kiaransalee
+draft: "false"
+---
+
+[!infobox]
 > # Kiaransalee
 > ![[kiaransalee.jpg]]
 > ###### Informações Básicas

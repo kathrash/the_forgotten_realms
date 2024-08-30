@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Lathander
 > ![[lathander_symbol.png]]

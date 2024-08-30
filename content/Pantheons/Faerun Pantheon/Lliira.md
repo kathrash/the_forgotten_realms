@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Lliira
 > ![[lliira_symbol.png]]

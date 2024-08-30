@@ -1,3 +1,7 @@
+---
+title: Auril
+draft: "false"
+---
 > [!infobox]
 > # Auril
 > ![[auril_symbol.png]]

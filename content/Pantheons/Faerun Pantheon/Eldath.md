@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Eldath
 > ![[eldath_symbol.png]]

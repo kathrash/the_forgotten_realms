@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Oghma
 > ![[oghma_symbol.png]]

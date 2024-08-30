@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Loviatar
 > ![[loviatar_symbol.png]]

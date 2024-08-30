@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Myrkul
 > ![[myrkul_symbol.png]]

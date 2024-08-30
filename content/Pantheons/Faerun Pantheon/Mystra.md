@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Mystra
 > ![[mystra_symbol.png]]

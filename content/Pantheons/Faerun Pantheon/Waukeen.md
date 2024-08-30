@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Waukeen
 > ![[waukeen_symbol.png]]

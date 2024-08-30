@@ -1,3 +1,7 @@
+---
+title: Azuth
+draft: "false"
+---
 > [!infobox]
 > # Azuth
 > ![[Azuth_symbol.png]]

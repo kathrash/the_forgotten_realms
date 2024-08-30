@@ -1,3 +1,7 @@
+---
+title: 
+draft: "false"
+---
 > [!infobox]
 > # Ilmater
 > ![[ilmater_symbol.png]]
