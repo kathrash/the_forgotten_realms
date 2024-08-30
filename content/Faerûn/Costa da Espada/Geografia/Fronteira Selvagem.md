@@ -1,0 +1,1 @@
+A Fronteira Selvagem é o nome dado ao restante do território não colonizado ou escassamente povoado no Norte, sem incluir as principais cidades e vilas e quaisquer assentamentos em suas esferas de influência imediatas.

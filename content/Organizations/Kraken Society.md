@@ -1,0 +1,7 @@
+A Kraken Society é um grupo secreto de espiões, contrabandistas, traficantes de escravos e assassinos. Há rumores de que o fundador de sua organização é Slarkrethel, o kraken que usa magia e vive nas profundezas do Mar Azul.
+Por milhares de anos, a Kraken Society tem buscado incansavelmente por um caminho há muito perdido para a ascendência divina de seu governante terrestre. Enquanto isso, ele estende seus tentáculos por todo o Mundo Conhecido, derrubando poderes que podem um dia ameaçá-lo.
+O cartão de visita da Kraken Society, uma lula roxa com um número incrível de tentáculos, é sinônimo de sequestros, torturas, assassinatos e força bruta.
+Embora os poucos que sabem de sua existência muitas vezes pensem na Sociedade como mais uma organização que coleta informações (alguns até se referem a seus membros como os Arautos do Mar), sempre houve algo sinistro em seus negócios; uma estranha sensação de perigo e intriga em seus maneirismos.
+No continente, diz-se que a Sociedade tem espiões que espreitam nas sombras de cidades e vilas, reunindo informações para Slarkrethel e participando de rituais obscuros para aumentar seu poder. Muitos desses espiões levam vidas duplas e ocupam altos postos nas principais cidades ao redor do Mar Azure.
+
+![[kraken_society.png|center]]

@@ -1,0 +1,42 @@
+> [!infobox]
+> # Yondalla
+> ![[yondalla.jpg]]
+> ###### Informações Básicas
+> | | |
+> | ---- | ---- |
+> | **Titulos** | A Protetora e Provedora<br/>a Matriarca Nutritiva<br/>a Abençoada |
+> | **Alinhamento** | LG |
+> | **Portfólio** | Fertilidade, proteção |
+> | **Domínio** | Vida, Crepúsculo |
+
+Yondalla é a matriarca do panteão halfling. Dizem que ela criou a raça halfling à sua própria imagem. Com sua personalidade encantadora e comportamento amigável, ela é um exemplo para todos os halflings; que quase todos compartilhavam sua curiosidade, lealdade e senso de travessura. Como a deusa da proteção, Yondalla afasta influências malignas e intrusões nas casas e vidas dos halflings. Yondalla dá ao seu povo a força de caráter e a determinação para se defender. Sua proteção faz parte das próprias almas de suas criações, pois de todas as raças semi-humanas, os halflings raramente sucumbiram ao mal. Como provedora, Yondalla é uma deusa da fertilidade e do crescimento das coisas, do nascimento e da juventude, da natureza e das plantas. Ela pode tornar lugares estéreis e criaturas férteis e aumentar a taxa de crescimento de plantas e animais, quase como ela escolhe, embora ela use esses poderes com moderação e quase nunca confira tais benefícios a outros semi-humanos ou humanos por medo de ofender suas divindades.
+
+Yondalla às vezes é considerada não uma deusa verdadeira, mas sim um aspecto divino da deusa Chauntea — os halflings acham essa afirmação absolutamente absurda.
+
+Yondalla serve de exemplo para todo o seu povo, defendendo a harmonia entre os halflings, boas relações com outras raças e a forte defesa quando confrontada com as afrontas dos inimigos. É o desejo de Yondalla que todos os seus filhos estejam seguros e prósperos, tratem-se bem e vivam vidas interessantes e plenas. Yondalla é indulgente, lenta para a raiva e gentil, mas quando seus protegidos são ameaçados, ela age com bravura e ferocidade que ganharam o respeito até mesmo de seus contemporâneos divinos mais guerreiros. Yondalla sabe que sua raça representa uma criação verdadeiramente boa e faz qualquer coisa dentro dos limites da honra para nutri-la e protegê-la.
+
+###### Dallah Thaun
+Dallah Thaun, a Senhora dos Mistérios, é o aspecto obscuro e oculto de Yondalla. Ela é o grande segredo da raça halfling, que não compartilha o conhecimento de Dallah Thaun com estranhos. Ela foi fisicamente separada de Yondalla quando criou (ou descobriu) a raça halfling, mas ela e Yondalla ainda são um ser. O que uma sabe, a outra sabe, e aqueles que adoram Dallah Thaun também estão adorando Yondalla (e vice-versa).
+
+Dallah Thaun é Caótica Neutra e considerada uma deusa intermediária. Ela é representada com cabelos e olhos escuros e se veste toda de preto. Onde Yondalla nutre os sobreviventes de uma tragédia, Dallah Thaun busca vingança. Onde Yondalla, a Provedora, cria fertilidade e abundância, Dallah Thaun incita os halflings a buscar riqueza. Dallah Thaun, em suma, faz o trabalho sujo, enquanto Yondalla mantém suas mãos limpas. Dallah Thaun é a deusa dos segredos, mentiras, meias-verdades, bajulação, manipulação e furtividade. As duas metades da deusa não brigam, e não podem brigar, sobre seus respectivos métodos, por mais diferentes que sejam. Elas são a mesma pessoa, com cada uma cumprindo seu respectivo papel.
+
+# Descrição
+Aqueles que buscam viver de acordo com o caminho do Provedor serão abençoados com uma cornucópia de riquezas. Busque paz e conforto, pois uma vida vivida com ambos é a verdadeira riqueza. Embora a violência nunca deva ser bem-vinda, a égide do Protetor se estenderá àqueles dispostos a defender ferozmente seu lar e comunidade. Lidere pelo exemplo e conheça as atividades daqueles que você lidera para que possa ajudar a carregar seus fardos quando necessário. Valorize sua família, pois seus pais lhe deram a vida e seus filhos são seu futuro. Cuide dos idosos e dos fracos, pois você nunca sabe quando pode ser um dos fortes abatidos.
+
+# Adoradores
+Yondalla sorri para seus seguidores quando eles ajudam e ajudam os outros e respeitam os mortos. Ela desaprova sacrifícios e matanças de companheiros halfings. Seu animal sagrado é a pomba.
+
+A adoração à Matriarca Nutritiva está tão arraigada em quase todos os aspectos da sociedade halfling que os hin tratam a ideia de serviços específicos para sua deusa uma vez por dezena com desdém perplexo. Isso não quer dizer que os halflings tenham uma cultura teocrática, mas sim que Yondalla (e por extensão, seu clero) apresenta por meio de suas ações (conforme interpretadas por meio de histórias ensinadas a todos os halflings em sua juventude) os valores que um halfling deve abraçar para viver a vida ao máximo e beneficiar a comunidade, a saber: aceitação, comunidade, amor, alegria, curiosidade, lealdade, diplomacia, tradição e um senso de travessura bem desenvolvido. O fato de muitos membros do clero atuarem como líderes comunitários reforça a influência do credo de Yondalla na sociedade halfling. Os clérigos de Yondalla raramente fazem multiclasse, embora alguns poucos com inclinação militante decidam se tornar paladinos.
+
+# História
+As histórias sobre a origem da raça halfling variam muito. Em alguns mitos, ela dá à luz os halflings diretamente. Outros mitos a têm reunindo os halflings a partir de elementos naturais díspares ou de características que ela admirava em outras raças. Em uma versão, ela pegou elementos dos fey (que eram muito frívolos por si próprios), dos anões (que eram muito sérios), dos elfos (que eram muito pacientes para seus gostos), dos humanos e até mesmo dos orcs (que eram muito brutais). Ela começou com um pixie ou um brownie, alguns dizem, e deu a ele agilidade élfica, devoção anã à família e ao clã, ousadia orc e adaptabilidade humana.
+
+Mais raramente, ela descobre o primeiro halfling, que é chamado de Littleman.
+
+###### A História de Littleman
+No início dos tempos, Yondalla recebeu pouco respeito entre os deuses da criação, pois ela não tinha uma raça para chamar de sua. Ela foi banida dos conselhos divinos por um tempo depois que cometeu o erro de perguntar às divindades reunidas, provavelmente sarcasticamente, qual delas era a maior. Essa questão provocou tanta discórdia que eles a expulsaram. Yondalla deixou os Sete Céus e vagou pelos mundos do Plano Material. Depois de "um dia e um ano e um ano e um dia", ela encontrou Littleman pescando na margem de um rio. Littleman era inteligente, corajoso, bondoso, travesso e não muito grande. Ele era perfeito para as necessidades de Yondalla. Alguns dizem que ele era uma criatura silvestre solitária e triste (um brownie, de acordo com algumas versões) que Yondalla transformou no primeiro halfling. Outras versões do mito dizem que Littleman já era um halfling, e Yondalla apenas adotou a raça. Yondalla se ofereceu para dar a ele e seu povo proteção contra seus inimigos e trazer-lhes fertilidade e abundância. Littleman concordou, e assim o pacto entre Yondalla e seu povo foi selado. Littleman se tornou um herói cultural que ensinou aos outros halflings (pré-existentes ou criados por Yondalla) habilidades úteis e todos os benefícios do que é hoje a cultura halfling.
+
+###### Os Campos Verdes
+Yondalla usou uma combinação de bajulação, astúcia e diplomacia para ganhar para os halflings os campos férteis e prados onde eles preferem se estabelecer. Ela elogiou Moradin sobre o quão bem ele trabalhava metais e pedras, distraindo-o com contos de metais preciosos. Ela pechinchou com Corellon Larethian sobre os espaços verdes exuberantes, finalmente concordando que a espécie de Corellon tomaria as florestas e ela tomaria as pastagens. Ao elogiar a diversidade e flexibilidade dos deuses humanos, ela os convenceu a não reivindicar nenhum tipo de terreno específico para eles. Quanto aos orcs, bem, o conto de Gruumsh relata como ele reagiu.
+
+Em outra versão da história (em Races of the Wild), os outros deuses descobrem que Yondalla roubou elementos de suas raças para criar os halflings, e exigem que ela seja punida. Ela usa sua bajulação e astúcia para apaziguá-los, e no final eles concordam em permitir que Yondalla e seus halflings vivam. No entanto, os halflings não terão nações próprias, e Yondalla deve expurgar sua veia de ladrões de seu ser. Ela o faz, criando Dallah Thaun e escondendo-a, deixando apenas a imaculada, irrepreensível e boa Yondalla para seus promotores verem.
